@@ -199,27 +199,29 @@ temple.html
 
 ## OUTPUT:
 
- MY HOME TOWN:
+
+
+## MY HOME TOWN:
  
 ![home](https://github.com/vaishnavidevi23013992/NearMe/assets/151864235/2cb721b9-1c99-4804-a44a-edec7247793e)
 
-AAAYIRAM JANNAL VEEDU:
+## AAAYIRAM JANNAL VEEDU:
 
 ![1000](https://github.com/vaishnavidevi23013992/NearMe/assets/151864235/9ff03b10-996f-482f-8aef-3535b0b30b3b)
 
-KANADUKATHAN PALACE:
+## KANADUKATHAN PALACE:
 
   ![kanadukathan](https://github.com/vaishnavidevi23013992/NearMe/assets/151864235/9d4e53e6-0028-435a-82e3-ce1d908f8dbc)
 
-  ALAGAPPA UNIVERSITY:
+##  ALAGAPPA UNIVERSITY:
 
   ![alagappa](https://github.com/vaishnavidevi23013992/NearMe/assets/151864235/2e2c6d89-2293-4d59-885b-a65445f97a0e)
 
- CHETTINAD FOODS:
+## CHETTINAD FOODS:
 
  ![food](https://github.com/vaishnavidevi23013992/NearMe/assets/151864235/f7343580-3356-44a7-8bcf-cafae65da1ae)
 
- TAMILTHAI TEMPLE:
+## TAMILTHAI TEMPLE:
 
  ![TAMILTHAI ](https://github.com/vaishnavidevi23013992/NearMe/assets/151864235/9a6ec42d-f6e8-4003-91e4-d7844198cf2d)
 
