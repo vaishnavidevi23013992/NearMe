@@ -221,7 +221,7 @@ temple.html
 
  ![food](https://github.com/vaishnavidevi23013992/NearMe/assets/151864235/f7343580-3356-44a7-8bcf-cafae65da1ae)
 
-## TAMILTHAI TEMPLE:
+## TAMILTHAI KOVIL:
 
  ![TAMILTHAI ](https://github.com/vaishnavidevi23013992/NearMe/assets/151864235/9a6ec42d-f6e8-4003-91e4-d7844198cf2d)
 
